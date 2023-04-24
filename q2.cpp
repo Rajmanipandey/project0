@@ -7,8 +7,8 @@ cout<<"enter a and b"<<endl;
 cin>>a >>b;
 cout<<endl;
 cout<<a*b;
-
-
+cout<<endl;
+cout<<a%b;
 
 
     return 0;
