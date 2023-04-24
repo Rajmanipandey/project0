@@ -9,6 +9,8 @@ cin>>a >>b ;
 
 
 cout<<a+b;
+cout<<endl;
+cout<<a-b;
 
 
     return 0;
